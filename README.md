@@ -1,1 +1,1 @@
-# shot-detection
+# shot-detection(Shot transition detection)
